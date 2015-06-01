@@ -6,7 +6,7 @@
 </head>
 <frameset rows="*" cols="194,*" framespacing="0" frameborder="NO" border="0">
   <frame src="MenuFrame.htm" name="leftFrame" scrolling="NO" noresize>
-  <frame src="KomentariFrame.html" name="mainFrame">
+  <frame src="KomentariFrame.php" name="mainFrame">
 </frameset>
 <noframes><body>
 </body></noframes>
