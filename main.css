@@ -1,0 +1,73 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	font-family: "Times New Roman", Times, serif;
+	color: #000;
+	margin: 0px;
+	padding: 0px;
+}
+h2 {
+	color: #009900;
+	font-size: 16px;
+	font-weight: bold;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+.textTD {
+	padding: 30px;
+	width: 100%;
+	vertical-align: top;
+}
+.headerTD {
+	font-weight: bold;
+	color: #99ff66;
+	background-color: #990000;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 30px;
+	border-top-width: 2px;
+	border-right-width: 2px;
+	border-bottom-width: 2px;
+	border-left-width: 2px;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-top-color: #ff0033;
+	border-right-color: #ff0033;
+	border-bottom-color: #ff0033;
+	border-left-color: #ff0033;
+	font-style: italic;
+}
+.headerTD2 {
+	font-weight: bold;
+	color: #900;
+	background-color: #99ff66;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 30px;
+	border-top-width: 2px;
+	border-right-width: 2px;
+	border-bottom-width: 2px;
+	border-left-width: 2px;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-top-color: #ff0033;
+	border-right-color: #ff0033;
+	border-bottom-color: #ff0033;
+	border-left-color: #ff0033;
+	font-style: italic;
+}
+.textTD img {
+	float: left;
+	padding-right: 30px;
+	padding-bottom: 10px;
+}
+.paragr {
+	margin-bottom: 30px;
+	border-bottom-width: 3px;
+	border-bottom-style: double;
+	border-bottom-color: #9F6;
+	border-right-width: 3px;
+	border-right-style: double;
+	border-right-color: #9F6;
+	width: 50%;
+}

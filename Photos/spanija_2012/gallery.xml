@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewerGallery maxImageWidth="640" maxImageHeight="640" textColor="0xFFFFFF" frameColor="0xFFFFFF" frameWidth="20" stagePadding="30" thumbnailColumns="3" thumbnailRows="5" navPosition="left" title="" enableRightClickOpen="true" backgroundImagePath="" imagePath="images/" thumbPath="thumb/">
+<image>
+<filename>0481.jpg</filename>
+<caption></caption>
+</image>
+<image>
+<filename>0541.jpg</filename>
+<caption></caption>
+</image>
+<image>
+<filename>0491.jpg</filename>
+<caption></caption>
+</image>
+</simpleviewerGallery>

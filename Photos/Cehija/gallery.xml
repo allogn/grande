@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<simpleviewerGallery backgroundImagePath="" maxImageWidth="1500" maxImageHeight="1500" imagePath="images/large/" thumbPath="images/thumb/" frameColor="0xffffff" textColor="0xffffff" frameWidth="20" stagePadding="40" thumbnailColumns="3" thumbnailRows="3" navPosition="left" enableRightClickOpen="true"> 
+<image>
+<filename>_3109676009.jpg</filename>
+<caption></caption>
+</image>
+<image>
+<filename>_5357016440.jpg</filename>
+<caption></caption>
+</image>
+<image>
+<filename>_2638767502.jpg</filename>
+<caption></caption>
+</image>
+<image>
+<filename>_6280644843.jpg</filename>
+<caption></caption>
+</image>
+<image>
+<filename>_3171144639.jpg</filename>
+<caption></caption>
+</image>
+<image>
+<filename>_8651584200.jpg</filename>
+<caption></caption>
+</image>
+</simpleviewerGallery>
