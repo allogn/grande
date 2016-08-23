@@ -6075,3 +6075,6 @@ body {
 
 .twitterBox ul li {
   border-bottom: 1px solid #eeeeee; }
+
+#facebook_posts blockquote {
+  font-size: 12px; }
